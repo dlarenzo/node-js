@@ -10,4 +10,4 @@ const firstFunction = (req, res) => {
   res.send("Tooele Tech is Awesome");
 };
 
-module.exports = { firstFunction };
+module.exports = { awesomeFunction, firstFunction };
